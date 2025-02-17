@@ -34,7 +34,7 @@ export function SignUp() {
       setLoading(false);
       setError(true);
     }
-    navigate('/sign-in');
+    navigate('/sign-in  ');
   };
   return (
     <div className='p-3 max-w-lg mx-auto'>
